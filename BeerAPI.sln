@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31612.314
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeerAPI", "BeerAPI\BeerAPI.csproj", "{6553342D-D0F9-4763-9C03-54EC0B19B551}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6553342D-D0F9-4763-9C03-54EC0B19B551}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6553342D-D0F9-4763-9C03-54EC0B19B551}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6553342D-D0F9-4763-9C03-54EC0B19B551}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6553342D-D0F9-4763-9C03-54EC0B19B551}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDAD9C13-1B90-45D8-B160-D44695289DC1}
+	EndGlobalSection
+EndGlobal
